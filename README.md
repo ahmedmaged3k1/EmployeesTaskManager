@@ -5,4 +5,6 @@ Room DataBase
 
 MVVM Architecture pattern
 
+Live Data
+
 UI/UX Design 
